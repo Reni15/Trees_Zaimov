@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STUDENTS-1212-6\\Desktop\\Reni\\ConnectionTables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40EBEE44-D0D0-44E9-ABC5-3FDC741BBA5E}|Trees_Zaimov\\Trees_Zaimov.csproj|c:\\users\\students-1212-6\\desktop\\reni\\connectiontables\\trees_zaimov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EBEE44-D0D0-44E9-ABC5-3FDC741BBA5E}|Trees_Zaimov\\Trees_Zaimov.csproj|solutionrelative:trees_zaimov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EBEE44-D0D0-44E9-ABC5-3FDC741BBA5E}|Trees_Zaimov\\Trees_Zaimov.csproj|C:\\Users\\STUDENTS-1212-6\\Desktop\\Reni\\ConnectionTables\\trees_zaimov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40EBEE44-D0D0-44E9-ABC5-3FDC741BBA5E}|Trees_Zaimov\\Trees_Zaimov.csproj|solutionrelative:trees_zaimov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36167D14-08B5-4C20-81DC-AA4FA801E763}|ConnectionTables\\ConnectionTables.csproj|C:\\Users\\STUDENTS-1212-6\\Desktop\\Reni\\ConnectionTables\\connectiontables\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36167D14-08B5-4C20-81DC-AA4FA801E763}|ConnectionTables\\ConnectionTables.csproj|solutionrelative:connectiontables\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EBEE44-D0D0-44E9-ABC5-3FDC741BBA5E}|Trees_Zaimov\\Trees_Zaimov.csproj|C:\\Users\\STUDENTS-1212-6\\Desktop\\Reni\\ConnectionTables\\trees_zaimov\\comboboxitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EBEE44-D0D0-44E9-ABC5-3FDC741BBA5E}|Trees_Zaimov\\Trees_Zaimov.csproj|solutionrelative:trees_zaimov\\comboboxitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36167D14-08B5-4C20-81DC-AA4FA801E763}|ConnectionTables\\ConnectionTables.csproj|C:\\Users\\STUDENTS-1212-6\\Desktop\\Reni\\ConnectionTables\\connectiontables\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36167D14-08B5-4C20-81DC-AA4FA801E763}|ConnectionTables\\ConnectionTables.csproj|solutionrelative:connectiontables\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComboBoxItem.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-6\\Desktop\\Reni\\ConnectionTables\\Trees_Zaimov\\ComboBoxItem.cs",
+              "RelativeDocumentMoniker": "Trees_Zaimov\\ComboBoxItem.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-6\\Desktop\\Reni\\ConnectionTables\\Trees_Zaimov\\ComboBoxItem.cs",
+              "RelativeToolTip": "Trees_Zaimov\\ComboBoxItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T08:17:11.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-6\\Desktop\\Reni\\ConnectionTables\\Trees_Zaimov\\Form1.cs",
+              "RelativeDocumentMoniker": "Trees_Zaimov\\Form1.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-6\\Desktop\\Reni\\ConnectionTables\\Trees_Zaimov\\Form1.cs",
+              "RelativeToolTip": "Trees_Zaimov\\Form1.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAAAMoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:28:59.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-6\\Desktop\\Reni\\ConnectionTables\\Trees_Zaimov\\Form1.cs",
+              "RelativeDocumentMoniker": "Trees_Zaimov\\Form1.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-6\\Desktop\\Reni\\ConnectionTables\\Trees_Zaimov\\Form1.cs [Design]",
+              "RelativeToolTip": "Trees_Zaimov\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:28:33.035Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-6\\Desktop\\Reni\\ConnectionTables\\ConnectionTables\\Form1.cs",
+              "RelativeDocumentMoniker": "ConnectionTables\\Form1.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-6\\Desktop\\Reni\\ConnectionTables\\ConnectionTables\\Form1.cs",
+              "RelativeToolTip": "ConnectionTables\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:11:51.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-6\\Desktop\\Reni\\ConnectionTables\\ConnectionTables\\Form1.cs",
+              "RelativeDocumentMoniker": "ConnectionTables\\Form1.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-6\\Desktop\\Reni\\ConnectionTables\\ConnectionTables\\Form1.cs [Design]",
+              "RelativeToolTip": "ConnectionTables\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:10:02.774Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
